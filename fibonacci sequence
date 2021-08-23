@@ -1,4 +1,4 @@
-//To print fibonacci sequence
+// fibonacci sequence
 n_terms = int(input ("How many terms the user wants to print? "))  
   
 # First two terms  
